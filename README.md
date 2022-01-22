@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashwin Sateesh Kumar
-- 👀 My reserach interests are Machine Learning and Artificial Intelligence
+- 👀 My research interests are Machine Learning and Artificial Intelligence
 - 🌱 I'm currently working on Deep Learning and  Advanced Algorithms
 - 📫 You reach me on 
       1. linkedIn : https://www.linkedin.com/in/ashwin-sateesh-kumar-091789114/?msgControlName=reply_to_sender&msgConversationId=2-OTNhMjU4ZDMtNmRkYS00Y2Q2LWI1ZDEtOTJmZjFjOGVhZDZmXzAxMA%3D%3D&msgOverlay=true
